@@ -1,5 +1,5 @@
 const simsimi = require('..')({
-  key: '6uaIjLXATy86Ty98mXD9s1OrJst3Ebnx5ZIbwh0c',
+  key: 'Fc~poIp3FIAILz1imebYOlPF5JWbCQbZtdovMret',
 });
 
 simsimi('Hello').then(response => {
